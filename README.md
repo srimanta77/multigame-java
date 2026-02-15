@@ -24,7 +24,7 @@ Run:
 java MultiGame
 
 ## 📷 Output Screenshot
-(see below)
+![Output](output.png)
 
 ## 👨‍💻 Author
 Srimanta Mondal
